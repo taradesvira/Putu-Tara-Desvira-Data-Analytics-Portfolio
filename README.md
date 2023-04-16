@@ -26,7 +26,32 @@ Hello! Welcome to my Data Analytics portfolio.  I am Tara, your aspiring Data An
 
 **Query Examples:**
 1. [Link text](path/to/file.pdf)
-2. 1. [Link text](path/to/file.pdf)
+2. [Link text](path/to/file.pdf)
 
 # Python Skillsets:
-* 
+* Removing irrelevant values
+* Handling missing data
+* Removing duplicates
+* Handiling Outlier
+* String manipulation
+* Combine and merge datasets
+* Data aggregation
+* Descriptive statistics
+* EDA using visuzalization
+* Cluster analysis
+
+**Code Examples:**
+1. [Link text](path/to/file.pdf)
+
+# Data Visualization Skillsets (Tableau):
+* Connect and merge datasets
+* Data formating
+* Vizualization
+* Calculated fields
+* Interactive dashboard
+
+**Tableau workbooks:**
+1. [Link text](path/to/file.pdf)
+
+# Project Based Analytics
+1. [Link text](path/to/file.pdf)
