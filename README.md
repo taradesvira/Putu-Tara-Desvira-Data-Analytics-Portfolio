@@ -25,8 +25,12 @@ Hello! Welcome to my Data Analytics portfolio.  I am Tara, your aspiring Data An
 * SQL Window Function
 
 **Query Examples:**
-1. [Link text](path/to/file.pdf)
-2. [Link text](path/to/file.pdf)
+1. [To get all the unique users who got their items Returned in the Dec 2022 period ](https://console.cloud.google.com/bigquery?sq=542976873921:d16b89194d9945eaa9e5a06919efedd1)
+2. [To find the categories that generate the highest sales price with status shipped on Dec 2022](https://console.cloud.google.com/bigquery?sq=542976873921:36c154473b4b4effae25a83eadfe8613)
+3. [To find the cathegory that faced the lowest percatage in terms of order number with a status of Shipped on Dec 2022](https://console.cloud.google.com/bigquery?sq=542976873921:b9d04088f18a459a999b4befebd24481)
+4. [To find out which traffic source is the best option to get a session](https://console.cloud.google.com/bigquery?sq=542976873921:5ccbaeeb6a754e4796dd5d98d6786f57)
+5. [To find the top three traffic sources that generated the highest revenue from completed orders by users who made their first purchase within the last three months](https://console.cloud.google.com/bigquery?sq=542976873921:4998d3983d994f57bdb183b1f6c1073e)
+
 
 # Python Skillsets:
 * Removing irrelevant values
