@@ -55,7 +55,8 @@ Hello! Welcome to my Data Analytics portfolio.  I am Tara, your aspiring Data An
 * Interactive dashboard
 
 **Tableau workbooks:**
-1. [Link text](path/to/file.pdf)
+1. [Hotel Booking Demand - Palacio Estoril Hotel](https://public.tableau.com/views/HotelBookingDemand-PalacioEstorilHotel/All?:language=en-US&:display_count=n&:origin=viz_share_link)
+2. [SAMBA COMMERCE Strategic Dashboard](https://public.tableau.com/views/SAMBACOMMERCEStrategicDashboard/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 # Project Based Analytics
 1. [Link text](path/to/file.pdf)
