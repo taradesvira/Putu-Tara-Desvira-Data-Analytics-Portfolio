@@ -45,7 +45,8 @@ Hello! Welcome to my Data Analytics portfolio.  I am Tara, your aspiring Data An
 * Cluster analysis
 
 **Code Examples:**
-1. [Link text](path/to/file.pdf)
+1. [Mutual Funds - Customer Analysis](https://github.com/taradesvira/Putu-Tara-Desvira-Data-Analytics-Portfolio/blob/main/Mutual%20Funds%20Company%20Customers%20Analysis.ipynb)
+2. [Link text](path/to/file.pdf)
 
 # Data Visualization Skillsets (Tableau):
 * Connect and merge datasets
