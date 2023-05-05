@@ -5,15 +5,15 @@ Hello! Welcome to my Data Analytics portfolio.  I am Tara, your aspiring Data An
 * Data Cleaning
 * Query Table
 * Pivot Table
-* Vlookup
 * Decriptive Statistics
 * Data Visualization
 * Gathering Insights
-* A/B Testing
+* Linear Regression
 
 **Deck:**
 
-1. [Link text](path/to/file.pdf)
+1. [Spreadsheet-Excel Deck Portfolio](https://drive.google.com/file/d/1FOhpa6jPqr9HLKNQtl7os_FlGnOoc8Ji/view?usp=sharing)
+2. [DesaPark City - Linear Regression](https://docs.google.com/spreadsheets/d/1EuE75mTwSmNcpX2vgH3Y6JC8GNwpEfg8uPLkv82xLM4/edit?usp=sharing)
 
 # SQL Skillsets:
 * Standard Query Syntax
