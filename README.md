@@ -59,5 +59,8 @@ Hello! Welcome to my Data Analytics portfolio.  I am Tara, your aspiring Data An
 1. [Hotel Booking Demand - Palacio Estoril Hotel Dashboard](https://public.tableau.com/views/HotelBookingDemand-PalacioEstorilHotel/All?:language=en-US&:display_count=n&:origin=viz_share_link)
 2. [SAMBA COMMERCE Strategic Dashboard](https://public.tableau.com/views/SAMBACOMMERCEStrategicDashboard/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+**Explanation of The Dashboard Objective, Findings, and Insights:**
+[Go to the presentation](https://drive.google.com/file/d/1k5EOoFBf_6p_7WaMXIgnE53XzW6JDdw-/view?usp=sharing)
+
 # Project Based Analytics
 1. [Decreasing Hotel Cancellation Rate to Minimize Lost on Revenue](https://drive.google.com/file/d/1GHPYOtAzpVQcBjve_-m0wxULTBXZ5YeA/view?usp=sharing)
