@@ -13,13 +13,13 @@ Hello! Welcome to my Data Analytics portfolio.  I am Tara, your aspiring Data An
 As an aspiring data analyst, I bring a keen ability to rapidly learn and deliver excellence in all aspects of my work. Holding a Bachelor's degree in Accounting, I possess a strong understanding of business acumen and have a proven track record of effectively working with data to gather insights and turn them into actionable items. I recently completed a rigorous data analytics course by RevoU, an online academy with a < 5% acceptance rate, and committed to more than 200 hours of active participation in daily classes. I have a broad range of skills in **statistics (Microsoft Excel and Spreadsheet), SQL (PostgreSQL, BigQuery), Python (Pandas, NumPy, Seaborn, Matplotlib, scikit-learn)** and also working with **Jupyter Notebook**, and **data visualization with Tableau and Google Data Studio (Looker Studio)**. My unwavering passion for data analytics drives me to continuously hone my skills, ensuring that I consistently deliver exceptional results.
 
 # Educations
-* Full Stack Data Analytics
-* Bachelor - President University
+* Full Stack Data Analytics at RevoU - [Jan 2023 - Mar 2023]
+* Bachelor of Accounting - President University - [Sep 2018 - Oct 2022]
 
 # Experiences
-* Auditor Intern
-* Chairperson of KMHD President University
-* Treasurer of PUMA Accounting President University
+* Auditor Intern at KAP Kanaka Puradiredja, Suhartono (Nexia) - [Jan 2021 - Apr 2021]
+* Chairperson of KMHD President University - [Jan 2020 - Dec 2020]
+* Treasurer of PUMA Accounting President University - [Jan 2019 - Dec 2019]
 
 # Skills Highlight
 ## Spreadsheet / Excel Skillsets:
@@ -84,3 +84,9 @@ As an aspiring data analyst, I bring a keen ability to rapidly learn and deliver
 
 # Project Based Analytics
 1. [Decreasing Hotel Cancellation Rate to Minimize Lost on Revenue](https://drive.google.com/file/d/1GHPYOtAzpVQcBjve_-m0wxULTBXZ5YeA/view?usp=sharing)
+
+# Contacts
+Reach me out by these options! ^^
+* [LinkedIn](https://www.linkedin.com/in/putu-tara-desvira/)
+* E-mail: desviratara@gmail.com
+* Phone number: +62 852-6305-5113
