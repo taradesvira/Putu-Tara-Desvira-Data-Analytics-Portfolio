@@ -3,11 +3,14 @@ Hello! Welcome to my Data Analytics portfolio.  I am Tara, your aspiring Data An
 
 # Table of Contents
 * About Me
+* Skill Highlight
+* Project Based Analytics
 
 # About Me
 As an aspiring data analyst, I bring a keen ability to rapidly learn and deliver excellence in all aspects of my work. Holding a Bachelor's degree in Accounting, I possess a strong understanding of business acumen and have a proven track record of effectively working with data to gather insights and turn them into actionable items. I recently completed a rigorous data analytics course by RevoU, an online academy with a < 5% acceptance rate, and committed to more than 200 hours of active participation in daily classes. I have a broad range of skills in statistics (Microsoft Excel and Spreadsheet), SQL (PostgreSQL, BigQuery), Python (Pandas, NumPy, Seaborn, Matplotlib, scikit-learn) and also working with Jupyter Notebook, and data visualization with Tableau and Google Data Studio (Looker Studio). My unwavering passion for data analytics drives me to continuously hone my skills, ensuring that I consistently deliver exceptional results.
 
-# Spreadsheet / Excel Skillsets:
+# Skills Highlight
+## Spreadsheet / Excel Skillsets:
 * Data Cleaning
 * Query Table
 * Pivot Table
@@ -21,7 +24,7 @@ As an aspiring data analyst, I bring a keen ability to rapidly learn and deliver
 1. [Spreadsheet-Excel Deck Portfolio](https://drive.google.com/file/d/1FOhpa6jPqr9HLKNQtl7os_FlGnOoc8Ji/view?usp=sharing)
 2. [DesaPark City - Linear Regression](https://docs.google.com/spreadsheets/d/1EuE75mTwSmNcpX2vgH3Y6JC8GNwpEfg8uPLkv82xLM4/edit?usp=sharing)
 
-# SQL Skillsets:
+## SQL Skillsets:
 * Standard Query Syntax
 * SQL Data Type
 * SQL Date Function
@@ -37,8 +40,7 @@ As an aspiring data analyst, I bring a keen ability to rapidly learn and deliver
 4. [To find out which traffic source is the best option to get a session](https://console.cloud.google.com/bigquery?sq=542976873921:5ccbaeeb6a754e4796dd5d98d6786f57)
 5. [To find the top three traffic sources that generated the highest revenue from completed orders by users who made their first purchase within the last three months (Current date Jan 1st, 2023)](https://console.cloud.google.com/bigquery?sq=542976873921:4998d3983d994f57bdb183b1f6c1073e)
 
-
-# Python Skillsets:
+## Python Skillsets:
 * Removing irrelevant values
 * Handling missing data
 * Removing duplicates
@@ -54,7 +56,7 @@ As an aspiring data analyst, I bring a keen ability to rapidly learn and deliver
 1. [Mutual Funds - Customer Analysis](https://github.com/taradesvira/Putu-Tara-Desvira-Data-Analytics-Portfolio/blob/main/Mutual%20Funds%20Company%20Customers%20Analysis.ipynb)
 2. [Mutual Funds - Customer Segmentation](https://github.com/taradesvira/Putu-Tara-Desvira-Data-Analytics-Portfolio/blob/main/Mutual_Funds_Customer_Segmentation.ipynb)
 
-# Data Visualization Skillsets (Tableau):
+## Data Visualization Skillsets (Tableau):
 * Connect and merge datasets
 * Data formating
 * Vizualization
