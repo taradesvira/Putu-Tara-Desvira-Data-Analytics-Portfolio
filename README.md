@@ -3,7 +3,7 @@ Hello! Welcome to my Data Analytics portfolio.  I am Tara, your aspiring Data An
 
 # Table of Contents
 * About Me
-* Skill Highlight
+* Skills Highlight
 * Project Based Analytics
 
 # About Me
