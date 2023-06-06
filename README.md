@@ -79,10 +79,21 @@ As an aspiring data analyst, I bring a keen ability to rapidly learn and deliver
 1. [Hotel Booking Demand - Palacio Estoril Hotel Dashboard](https://public.tableau.com/views/HotelBookingDemand-PalacioEstorilHotel/All?:language=en-US&:display_count=n&:origin=viz_share_link)
 2. [SAMBA COMMERCE Strategic Dashboard](https://public.tableau.com/views/SAMBACOMMERCEStrategicDashboard/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+**Google Data Studio (Looker) Workbook:**
+1. [SAMBA COMMERCE Strategic Dashboard](https://lookerstudio.google.com/reporting/6ba7c9c4-9d36-4263-ba6d-7c548fcf7e15/page/5WXKD)
+
 **Explanation of The Dashboard Objective, Findings, and Insights:**
-[Go to the presentation](https://drive.google.com/file/d/1k5EOoFBf_6p_7WaMXIgnE53XzW6JDdw-/view?usp=sharing)
+[Go to the deck](https://drive.google.com/file/d/1k5EOoFBf_6p_7WaMXIgnE53XzW6JDdw-/view?usp=sharing)
 
 # Project Based Analytics
+This is an end-to-end analytics project that I and my teammates completed as our Group Final Project during our study at RevoU. This project was conducted with this work path:
+1. Data Collection
+2. Data Cleaning
+3. Exploratory Data Analysis
+4. Data Visualization
+5. Insights and Recommendations
+
+#### Find out more on this deck!
 1. [Decreasing Hotel Cancellation Rate to Minimize Lost on Revenue](https://drive.google.com/file/d/1GHPYOtAzpVQcBjve_-m0wxULTBXZ5YeA/view?usp=sharing)
 
 # Contacts
