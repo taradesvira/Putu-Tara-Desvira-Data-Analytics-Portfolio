@@ -1,5 +1,11 @@
-# Data Analytics Portfolio by Putu Tara Desvira
-Hello! Welcome to my Data Analytics portfolio.  I am Tara, your aspiring Data Analyst, thank you for your time to read my projects! 
+# Data Analyst Portfolio by Putu Tara Desvira
+Hello! Welcome to my Data Analytics portfolio.  I am Tara, your aspiring Data Analyst, thank you for your time to read my portfolio! 
+
+# Table of Contents
+* About Me
+
+# About Me
+As an aspiring data analyst, I bring a keen ability to rapidly learn and deliver excellence in all aspects of my work. Holding a Bachelor's degree in Accounting, I possess a strong understanding of business acumen and have a proven track record of effectively working with data to gather insights and turn them into actionable items. I recently completed a rigorous data analytics course by RevoU, an online academy with a < 5% acceptance rate, and committed to more than 200 hours of active participation in daily classes. I have a broad range of skills in statistics (Microsoft Excel and Spreadsheet), SQL (PostgreSQL, BigQuery), Python (Pandas, NumPy, Seaborn, Matplotlib, scikit-learn) and also working with Jupyter Notebook, and data visualization with Tableau and Google Data Studio (Looker Studio). My unwavering passion for data analytics drives me to continuously hone my skills, ensuring that I consistently deliver exceptional results.
 
 # Spreadsheet / Excel Skillsets:
 * Data Cleaning
