@@ -3,11 +3,23 @@ Hello! Welcome to my Data Analytics portfolio.  I am Tara, your aspiring Data An
 
 # Table of Contents
 * About Me
+* Educations
+* Experiences
 * Skills Highlight
 * Project Based Analytics
+* Contacts
 
 # About Me
 As an aspiring data analyst, I bring a keen ability to rapidly learn and deliver excellence in all aspects of my work. Holding a Bachelor's degree in Accounting, I possess a strong understanding of business acumen and have a proven track record of effectively working with data to gather insights and turn them into actionable items. I recently completed a rigorous data analytics course by RevoU, an online academy with a < 5% acceptance rate, and committed to more than 200 hours of active participation in daily classes. I have a broad range of skills in **statistics (Microsoft Excel and Spreadsheet), SQL (PostgreSQL, BigQuery), Python (Pandas, NumPy, Seaborn, Matplotlib, scikit-learn)** and also working with **Jupyter Notebook**, and **data visualization with Tableau and Google Data Studio (Looker Studio)**. My unwavering passion for data analytics drives me to continuously hone my skills, ensuring that I consistently deliver exceptional results.
+
+# Educations
+* Full Stack Data Analytics
+* Bachelor - President University
+
+# Experiences
+* Auditor Intern
+* Chairperson of KMHD President University
+* Treasurer of PUMA Accounting President University
 
 # Skills Highlight
 ## Spreadsheet / Excel Skillsets:
@@ -56,7 +68,7 @@ As an aspiring data analyst, I bring a keen ability to rapidly learn and deliver
 1. [Mutual Funds - Customer Analysis](https://github.com/taradesvira/Putu-Tara-Desvira-Data-Analytics-Portfolio/blob/main/Mutual%20Funds%20Company%20Customers%20Analysis.ipynb)
 2. [Mutual Funds - Customer Segmentation](https://github.com/taradesvira/Putu-Tara-Desvira-Data-Analytics-Portfolio/blob/main/Mutual_Funds_Customer_Segmentation.ipynb)
 
-## Data Visualization Skillsets (Tableau):
+## Data Visualization Skillsets (Tableau and Google Data Studio (Looker)):
 * Connect and merge datasets
 * Data formating
 * Vizualization
