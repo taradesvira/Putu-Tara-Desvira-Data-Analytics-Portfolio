@@ -65,8 +65,8 @@ As an aspiring data analyst, I bring a keen ability to rapidly learn and deliver
 * Cluster analysis
 
 **Code Examples:**
-1. [Mutual Funds - Customer Analysis](https://github.com/taradesvira/Putu-Tara-Desvira-Data-Analytics-Portfolio/blob/main/Mutual%20Funds%20Company%20Customers%20Analysis.ipynb)
-2. [Mutual Funds - Customer Segmentation](https://github.com/taradesvira/Putu-Tara-Desvira-Data-Analytics-Portfolio/blob/main/Mutual_Funds_Customer_Segmentation.ipynb)
+1. [Mutual Funds - User Analysis](https://github.com/taradesvira/Putu-Tara-Desvira-Data-Analytics-Portfolio/blob/main/Mutual%20Funds%20Company%20Customers%20Analysis.ipynb)
+2. [Mutual Funds - User Segmentation](https://github.com/taradesvira/Putu-Tara-Desvira-Data-Analytics-Portfolio/blob/main/Mutual_Funds_Customer_Segmentation.ipynb)
 
 ## Data Visualization Skillsets (Tableau and Google Data Studio (Looker)):
 * Connect and merge datasets
