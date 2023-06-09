@@ -66,7 +66,7 @@ As an aspiring data analyst, I bring a keen ability to rapidly learn and deliver
 
 **Code Examples:**
 1. [Mutual Funds - User Analysis](https://github.com/taradesvira/Putu-Tara-Desvira-Data-Analytics-Portfolio/blob/main/Mutual%20Fund%20Company%20User%20Analysis.ipynb)
-2. [Mutual Funds - User Segmentation](https://github.com/taradesvira/Putu-Tara-Desvira-Data-Analytics-Portfolio/blob/main/Mutual_Fund_Customer_Segmentation.ipynb)
+2. [Mutual Funds - Customer Segmentation](https://github.com/taradesvira/Putu-Tara-Desvira-Data-Analytics-Portfolio/blob/main/Mutual_Fund_Customer_Segmentation.ipynb)
 
 ## Data Visualization Skillsets (Tableau and Google Data Studio (Looker)):
 * Connect and merge datasets
