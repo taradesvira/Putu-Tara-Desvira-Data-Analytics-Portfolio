@@ -10,13 +10,16 @@ Hello! Welcome to my Data Analytics portfolio.  I am Tara, your aspiring Data An
 * Contacts
 
 # About Me
-As an aspiring data analyst, I bring a keen ability to rapidly learn and deliver excellence in all aspects of my work. Holding a Bachelor's degree in Accounting, I possess a strong understanding of business acumen and have a proven track record of effectively working with data to gather insights and turn them into actionable items. I recently completed a rigorous data analytics course by RevoU, an online academy with a < 5% acceptance rate, and committed to more than 200 hours of active participation in daily classes. I have a broad range of skills in **statistics (Microsoft Excel and Spreadsheet), SQL (PostgreSQL, BigQuery), Python (Pandas, NumPy, Seaborn, Matplotlib, scikit-learn)** and also working with **Jupyter Notebook**, and **data visualization with Tableau and Google Data Studio (Looker Studio)**. I am committed to pursuing a career as a data analyst and making a mark in this rapidly evolving field.
+As an aspiring data analyst, I thrive on transforming data into meaningful insights. Currently, I’m working as a Data Analyst at Mirah Investment & Development, where I apply my analytical skills to drive impactful decisions. This role enhances my technical abilities and deepens my understanding of how data supports strategic goals, ensuring I effectively contribute to the company’s success.
+With a Bachelor's degree in Accounting, I have a solid foundation in business principles that complements my analytical expertise. I recently completed a rigorous data analytics course at RevoU, gaining advanced skills through over 200 hours of training. I am proficient in statistics (Microsoft Excel and Spreadsheet), SQL (PostgreSQL, BigQuery, MySQL), and Python (Pandas, NumPy, Seaborn, Matplotlib, scikit-learn), along with experience in Jupyter Notebook and data visualization tools such as Tableau, Power BI, and Google Data Studio (Looker Studio). My passion for data analytics drives my commitment to delivering high-quality work that meets the needs of clients and supports informed decision-making for sustained growth.
 
 # Educations
 * Full Stack Data Analytics at RevoU - [Jan 2023 - Mar 2023]
 * Bachelor of Accounting - President University - [Sep 2018 - Oct 2022]
 
 # Experiences
+* Data Analyst at Mirah Investment & Development - [Dec 2023 - Present]
+* Data Analyst Associate at RevoU - [May 2023 - Dec 2023]
 * Auditor Intern at KAP Kanaka Puradiredja, Suhartono (Nexia) - [Jan 2021 - Apr 2021]
 * Chairperson of KMHD President University - [Jan 2020 - Dec 2020]
 * Treasurer of PUMA Accounting President University - [Jan 2019 - Dec 2019]
